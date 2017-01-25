@@ -1,0 +1,1 @@
+open(input("Hvaða txt file viltu opna/skapa?")+".txt",'w')
